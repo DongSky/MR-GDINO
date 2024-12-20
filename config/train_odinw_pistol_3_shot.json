@@ -1,0 +1,19 @@
+{
+    "train": [
+      {
+        "root": "/data/dongbowen/data/odinw_13/pistols/export",
+        "anno": "/data/dongbowen/Open-GroundingDino-coop_v2/config/odinw_pistol_3_shot_odvg.json",
+        "label_map": "config/odinw_pistol_label_map.json",
+        "dataset_mode": "odvg"
+      }
+    ],
+    "val": [
+      {
+        "root": "/data/dongbowen/data/odinw_13/pistols/export",
+        "anno": "/data/dongbowen/data/odinw_13/pistols/export/val_annotations_without_background.json",
+        "label_map": "config/odinw_pistol_label_map.json",
+        "dataset_mode": "coco"
+      }
+    ]
+  }
+  

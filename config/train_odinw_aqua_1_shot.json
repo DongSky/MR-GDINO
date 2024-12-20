@@ -1,0 +1,19 @@
+{
+    "train": [
+      {
+        "root": "/data/dongbowen/data/odinw_13/Aquarium/Aquarium Combined.v2-raw-1024.coco/train",
+        "anno": "/data/dongbowen/Open-GroundingDino-coop_v2/config/odinw_aqua_1_shot_odvg.json",
+        "label_map": "config/odinw_aqua_label_map.json",
+        "dataset_mode": "odvg"
+      }
+    ],
+    "val": [
+      {
+        "root": "/data/dongbowen/data/odinw_13/Aquarium/Aquarium Combined.v2-raw-1024.coco/valid",
+        "anno": "/data/dongbowen/data/odinw_13/Aquarium/Aquarium Combined.v2-raw-1024.coco/valid/annotations_without_background.json",
+        "label_map": "config/odinw_aqua_label_map.json",
+        "dataset_mode": "coco"
+      }
+    ]
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "train": [
+      {
+        "root": "/data/dongbowen/data/odinw_13/AerialMaritimeDrone/large/train",
+        "anno": "/data/dongbowen/Open-GroundingDino-coop_v2/config/odinw_aerial_odvg.json",
+        "label_map": "config/odinw_aerial_label_map.json",
+        "dataset_mode": "odvg"
+      }
+    ],
+    "val": [
+      {
+        "root": "/data/dongbowen/data/odinw_13/AerialMaritimeDrone/large/valid",
+        "anno": "/data/dongbowen/data/odinw_13/AerialMaritimeDrone/large/valid/annotations_without_background.json",
+        "label_map": "config/odinw_aerial_label_map.json",
+        "dataset_mode": "coco"
+      }
+    ]
+  }
+  

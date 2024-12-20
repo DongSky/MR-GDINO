@@ -1,0 +1,19 @@
+{
+    "train": [
+      {
+        "root": "/data/dongbowen/data/dva_new",
+        "anno": "/data/dongbowen/Open-GroundingDino-coop_v2/config/dva_10_shot_odvg.json",
+        "label_map": "/data/dongbowen/Open-GroundingDino-coop_v2/config/dva_label_map.json",
+        "dataset_mode": "odvg"
+      }
+    ],
+    "val": [
+      {
+        "root": "/data/dongbowen/data/dva_new",
+        "anno": "/data/dongbowen/data/dva_new/dva.json",
+        "label_map": "/data/dongbowen/Open-GroundingDino-coop_v2/config/dva_label_map.json",
+        "dataset_mode": "coco"
+      }
+    ]
+  }
+  

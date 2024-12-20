@@ -1,0 +1,2 @@
+{"filename": "chicken04_jpg.rf.5e98ee93ad4c02c29ef2f30fd830dab0.jpg", "height": 416, "width": 416, "detection": {"instances": [{"bbox": [60, 70, 321, 298.5], "label": 0, "category": "CoW"}]}}
+{"filename": "chanterelle_10_jpg.rf.85deebb322d759401d09ae8ca92009cb.jpg", "height": 416, "width": 416, "detection": {"instances": [{"bbox": [12, 51, 197, 311], "label": 1, "category": "chanterelle"}, {"bbox": [154, 53, 377, 399], "label": 1, "category": "chanterelle"}]}}

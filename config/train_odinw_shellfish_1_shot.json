@@ -1,0 +1,19 @@
+{
+    "train": [
+      {
+        "root": "/data/dongbowen/data/odinw_13/ShellfishOpenImages/raw/train",
+        "anno": "/data/dongbowen/Open-GroundingDino-coop_v2/config/odinw_shellfish_1_shot_odvg.json",
+        "label_map": "config/odinw_shellfish_label_map.json",
+        "dataset_mode": "odvg"
+      }
+    ],
+    "val": [
+      {
+        "root": "/data/dongbowen/data/odinw_13/ShellfishOpenImages/raw/valid",
+        "anno": "/data/dongbowen/data/odinw_13/ShellfishOpenImages/raw/valid/annotations_without_background.json",
+        "label_map": "config/odinw_shellfish_label_map.json",
+        "dataset_mode": "coco"
+      }
+    ]
+  }
+  

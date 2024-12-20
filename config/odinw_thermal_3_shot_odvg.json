@@ -1,0 +1,4 @@
+{"filename": "IMG_0018 2_jpg.rf.0b1cf94034fc2ffe76178bbf6bf6c68e.jpg", "height": 416, "width": 416, "detection": {"instances": [{"bbox": [277, 106, 309.5, 219], "label": 1, "category": "person"}, {"bbox": [234, 112, 271, 223.5], "label": 1, "category": "person"}]}}
+{"filename": "IMG_0065_jpg.rf.7dab4e4097469f19d739a34f48f81e18.jpg", "height": 416, "width": 416, "detection": {"instances": [{"bbox": [173, 216, 301.5, 410.5], "label": 0, "category": "dog"}, {"bbox": [88, 1, 219, 411], "label": 1, "category": "person"}]}}
+{"filename": "IMG_0040_jpg.rf.9d6ddb38434d8601f872e25ec1bcaed0.jpg", "height": 416, "width": 416, "detection": {"instances": [{"bbox": [17, 98, 395, 396.5], "label": 0, "category": "dog"}]}}
+{"filename": "IMG_0008 4_jpg.rf.bc06dce81208d04dc19ca562a47a95f9.jpg", "height": 416, "width": 416, "detection": {"instances": [{"bbox": [225, 1, 369.5, 336.5], "label": 1, "category": "person"}, {"bbox": [98, 152, 273.5, 411.5], "label": 0, "category": "dog"}]}}

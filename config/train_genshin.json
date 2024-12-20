@@ -1,0 +1,19 @@
+{
+    "train": [
+      {
+        "root": "/data/dongbowen/data/genshin_new",
+        "anno": "/data/dongbowen/Open-GroundingDino-coop_v2/config/genshin_10_shot_odvg.json",
+        "label_map": "/data/dongbowen/Open-GroundingDino-coop_v2/config/genshin_label_map.json",
+        "dataset_mode": "odvg"
+      }
+    ],
+    "val": [
+      {
+        "root": "/data/dongbowen/data/genshin_new",
+        "anno": "/data/dongbowen/data/genshin_new/genshin.json",
+        "label_map": "/data/dongbowen/Open-GroundingDino-coop_v2/config/genshin_label_map.json",
+        "dataset_mode": "coco"
+      }
+    ]
+  }
+  

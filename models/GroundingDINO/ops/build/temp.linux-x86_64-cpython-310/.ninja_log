@@ -1,0 +1,4 @@
+# ninja log v5
+0	8028	1722437628840043559	/data/dongbowen/Open-GroundingDino-main/models/GroundingDINO/ops/build/temp.linux-x86_64-cpython-310/data/dongbowen/Open-GroundingDino-main/models/GroundingDINO/ops/src/cpu/ms_deform_attn_cpu.o	c27c517d83da2aea
+1	25751	1722437646571977804	/data/dongbowen/Open-GroundingDino-main/models/GroundingDINO/ops/build/temp.linux-x86_64-cpython-310/data/dongbowen/Open-GroundingDino-main/models/GroundingDINO/ops/src/vision.o	5bd982e1df302734
+1	27776	1722437648595970299	/data/dongbowen/Open-GroundingDino-main/models/GroundingDINO/ops/build/temp.linux-x86_64-cpython-310/data/dongbowen/Open-GroundingDino-main/models/GroundingDINO/ops/src/cuda/ms_deform_attn_cuda.o	cdf183a19444300a

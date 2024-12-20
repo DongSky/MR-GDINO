@@ -1,0 +1,5 @@
+{"filename": "raccoon-154_jpg.rf.4154741b6f2f118f1a5b85e6e3ee7719.jpg", "height": 419, "width": 650, "detection": {"instances": [{"bbox": [148, 56, 517, 346], "label": 0, "category": "raccoon"}]}}
+{"filename": "raccoon-122_jpg.rf.d1c7e0dcf526d1688c7eaeeb8bf0c8e6.jpg", "height": 283, "width": 178, "detection": {"instances": [{"bbox": [7, 7, 174, 198], "label": 0, "category": "raccoon"}]}}
+{"filename": "raccoon-152_jpg.rf.20c2833510dcba78e6507ca3ba355eb8.jpg", "height": 183, "width": 275, "detection": {"instances": [{"bbox": [41, 60, 223, 155], "label": 0, "category": "raccoon"}]}}
+{"filename": "raccoon-174_jpg.rf.24a71765fff41ea35b6d75fef9e3ae28.jpg", "height": 639, "width": 960, "detection": {"instances": [{"bbox": [125, 43, 588, 527], "label": 0, "category": "raccoon"}]}}
+{"filename": "raccoon-23_jpg.rf.2e0e3d9e18812058fc47dbce152c08d0.jpg", "height": 194, "width": 259, "detection": {"instances": [{"bbox": [108, 1, 259, 193], "label": 0, "category": "raccoon"}]}}

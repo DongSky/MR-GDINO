@@ -1,0 +1,18 @@
+{
+  "train": [
+    {
+      "root": "/data/dongbowen/data/coco/train2017/",
+      "anno": "config/coco_odvg.json",
+      "label_map": "config/coco2017_label_map.json",
+      "dataset_mode": "odvg"
+    }
+  ],
+  "val": [
+    {
+      "root": "/data/dongbowen/data/coco/val2017",
+      "anno": "config/instances_val2017.json",
+      "label_map": null,
+      "dataset_mode": "coco"
+    }
+  ]
+}

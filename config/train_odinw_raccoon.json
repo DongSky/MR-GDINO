@@ -1,0 +1,19 @@
+{
+    "train": [
+      {
+        "root": "/data/dongbowen/data/odinw_13/Raccoon/Raccoon.v2-raw.coco/train",
+        "anno": "/data/dongbowen/Open-GroundingDino-coop_v2/config/odinw_raccoon_odvg.json",
+        "label_map": "config/odinw_raccoon_label_map.json",
+        "dataset_mode": "odvg"
+      }
+    ],
+    "val": [
+      {
+        "root": "/data/dongbowen/data/odinw_13/Raccoon/Raccoon.v2-raw.coco/valid",
+        "anno": "/data/dongbowen/data/odinw_13/Raccoon/Raccoon.v2-raw.coco/valid/annotations_without_background.json",
+        "label_map": "config/odinw_raccoon_label_map.json",
+        "dataset_mode": "coco"
+      }
+    ]
+  }
+  

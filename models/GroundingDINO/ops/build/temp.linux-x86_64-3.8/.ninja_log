@@ -1,0 +1,4 @@
+# ninja log v5
+0	5136	1722427607886890875	/hdd1/dongbowen/Open-GroundingDino-main/models/GroundingDINO/ops/build/temp.linux-x86_64-3.8/hdd1/dongbowen/Open-GroundingDino-main/models/GroundingDINO/ops/src/cpu/ms_deform_attn_cpu.o	ed3865dc5b221524
+0	13393	1722427616134891030	/hdd1/dongbowen/Open-GroundingDino-main/models/GroundingDINO/ops/build/temp.linux-x86_64-3.8/hdd1/dongbowen/Open-GroundingDino-main/models/GroundingDINO/ops/src/vision.o	59803eb7784fda3f
+0	17618	1722427620354891109	/hdd1/dongbowen/Open-GroundingDino-main/models/GroundingDINO/ops/build/temp.linux-x86_64-3.8/hdd1/dongbowen/Open-GroundingDino-main/models/GroundingDINO/ops/src/cuda/ms_deform_attn_cuda.o	c79283260ad9fa27

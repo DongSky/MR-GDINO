@@ -1,0 +1,5 @@
+{"filename": "armas (2247).jpg.rf.d2300afc39985580feb979e4f80ffbfd.jpg", "height": 416, "width": 416, "detection": {"instances": [{"bbox": [8, 3, 403.2, 401.67], "label": 0, "category": "pistol"}]}}
+{"filename": "armas (757).jpg.rf.7c0829711ae23d73cb030f23675ce3e9.jpg", "height": 416, "width": 416, "detection": {"instances": [{"bbox": [36, 81, 399.31, 385.93], "label": 0, "category": "pistol"}]}}
+{"filename": "armas (697).jpg.rf.07d6e614e5c943ddf7559fa2ecca46cb.jpg", "height": 416, "width": 416, "detection": {"instances": [{"bbox": [187, 121, 354.38, 320.15], "label": 0, "category": "pistol"}]}}
+{"filename": "armas (1038).jpg.rf.d4fb5437c6a92d0d9f5b0e6fcb49aa68.jpg", "height": 416, "width": 416, "detection": {"instances": [{"bbox": [54, 18, 317.21, 290.79], "label": 0, "category": "pistol"}]}}
+{"filename": "armas (2200).jpg.rf.31e08f720f014b1114956bdaee772b78.jpg", "height": 416, "width": 416, "detection": {"instances": [{"bbox": [5, 10, 410.6, 401.73], "label": 0, "category": "pistol"}]}}

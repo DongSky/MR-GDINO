@@ -1,0 +1,19 @@
+{
+    "train": [
+      {
+        "root": "/data/dongbowen/data/odinw_13/NorthAmericaMushrooms/North American Mushrooms.v1-416x416.coco/train",
+        "anno": "/data/dongbowen/Open-GroundingDino-coop_v2/config/odinw_mushroom_odvg.json",
+        "label_map": "config/odinw_mushroom_label_map.json",
+        "dataset_mode": "odvg"
+      }
+    ],
+    "val": [
+      {
+        "root": "/data/dongbowen/data/odinw_13/NorthAmericaMushrooms/North American Mushrooms.v1-416x416.coco/valid",
+        "anno": "/data/dongbowen/data/odinw_13/NorthAmericaMushrooms/North American Mushrooms.v1-416x416.coco/valid/annotations_without_background.json",
+        "label_map": "config/odinw_mushroom_label_map.json",
+        "dataset_mode": "coco"
+      }
+    ]
+  }
+  

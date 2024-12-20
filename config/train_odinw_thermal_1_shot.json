@@ -1,0 +1,19 @@
+{
+    "train": [
+      {
+        "root": "/data/dongbowen/data/odinw_13/thermalDogsAndPeople/train",
+        "anno": "/data/dongbowen/Open-GroundingDino-coop_v2/config/odinw_thermal_1_shot_odvg.json",
+        "label_map": "config/odinw_thermal_label_map.json",
+        "dataset_mode": "odvg"
+      }
+    ],
+    "val": [
+      {
+        "root": "/data/dongbowen/data/odinw_13/thermalDogsAndPeople/valid",
+        "anno": "/data/dongbowen/data/odinw_13/thermalDogsAndPeople/valid/annotations_without_background.json",
+        "label_map": "config/odinw_thermal_label_map.json",
+        "dataset_mode": "coco"
+      }
+    ]
+  }
+  

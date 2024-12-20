@@ -1,0 +1,3 @@
+{"filename": "rabbit-5691898_1280_jpg.rf.8ae034b47af91214d80b5b0662c95aa9.jpg", "height": 416, "width": 416, "detection": {"instances": [{"bbox": [151, 64, 278.5, 315], "label": 0, "category": "Cottontail-Rabbit"}]}}
+{"filename": "bunny-bunnies-rabbits_jpg.rf.6d30567b7a55abb8d911dbca2c7f7828.jpg", "height": 416, "width": 416, "detection": {"instances": [{"bbox": [60, 19, 339, 392], "label": 0, "category": "Cottontail-Rabbit"}]}}
+{"filename": "rabbit-in-louisiana_jpg.rf.3033d2514d87c1a642063aa568c2ba12.jpg", "height": 416, "width": 416, "detection": {"instances": [{"bbox": [90, 42, 400, 416], "label": 0, "category": "Cottontail-Rabbit"}]}}

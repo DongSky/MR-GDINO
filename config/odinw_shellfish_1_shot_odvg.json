@@ -1,0 +1,3 @@
+{"filename": "25790a4a5d0eb05c_jpg.rf.33cad75b486187728f45e8fd5074b9b0.jpg", "height": 1024, "width": 1024, "detection": {"instances": [{"bbox": [458, 480, 744.4, 753.6], "label": 2, "category": "Shrimp"}, {"bbox": [555, 659, 819.0, 913.4], "label": 2, "category": "Shrimp"}, {"bbox": [1002, 582, 1022.8, 713.2], "label": 2, "category": "Shrimp"}]}}
+{"filename": "121bc7da11dc647e_jpg.rf.7837a1655544ea4d8b40259a11165c1b.jpg", "height": 768, "width": 1024, "detection": {"instances": [{"bbox": [253, 0, 717.64, 767.36], "label": 1, "category": "Lobster"}]}}
+{"filename": "af66c39a5aec1989_jpg.rf.ba9a3f37f4f559441016f0a602956177.jpg", "height": 576, "width": 1024, "detection": {"instances": [{"bbox": [0, 0, 1023.36, 542.72], "label": 0, "category": "Crab"}]}}

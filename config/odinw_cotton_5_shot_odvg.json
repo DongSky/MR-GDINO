@@ -1,0 +1,5 @@
+{"filename": "eastern-cottonail-rabbit-close-up-sylvilagus-floridanus_jpg.rf.1b79b1c2926fa319b81ef19cddc6fab5.jpg", "height": 416, "width": 416, "detection": {"instances": [{"bbox": [67, 31, 272, 381.5], "label": 0, "category": "Cottontail-Rabbit"}]}}
+{"filename": "rabbit-5691898_1280_jpg.rf.8ae034b47af91214d80b5b0662c95aa9.jpg", "height": 416, "width": 416, "detection": {"instances": [{"bbox": [151, 64, 278.5, 315], "label": 0, "category": "Cottontail-Rabbit"}]}}
+{"filename": "bunny-bunnies-rabbits_jpg.rf.6d30567b7a55abb8d911dbca2c7f7828.jpg", "height": 416, "width": 416, "detection": {"instances": [{"bbox": [60, 19, 339, 392], "label": 0, "category": "Cottontail-Rabbit"}]}}
+{"filename": "rabbit-5773376_1280_jpg.rf.75bedb56cd3c8540c2c4c522b8c8d87c.jpg", "height": 416, "width": 416, "detection": {"instances": [{"bbox": [78, 134, 303.5, 339.5], "label": 0, "category": "Cottontail-Rabbit"}]}}
+{"filename": "rabbit-in-louisiana_jpg.rf.3033d2514d87c1a642063aa568c2ba12.jpg", "height": 416, "width": 416, "detection": {"instances": [{"bbox": [90, 42, 400, 416], "label": 0, "category": "Cottontail-Rabbit"}]}}

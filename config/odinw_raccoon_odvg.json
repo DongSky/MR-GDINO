@@ -1,0 +1,10 @@
+{"filename": "raccoon-154_jpg.rf.4154741b6f2f118f1a5b85e6e3ee7719.jpg", "height": 419, "width": 650, "detection": {"instances": [{"bbox": [148, 56, 517, 346], "label": 0, "category": "raccoon"}]}}
+{"filename": "raccoon-159_jpg.rf.6e1107d81bfe99a9503db1e76c29b35e.jpg", "height": 223, "width": 226, "detection": {"instances": [{"bbox": [14, 11, 223, 221], "label": 0, "category": "raccoon"}]}}
+{"filename": "raccoon-55_jpg.rf.864e91b7fa338921d443470e2b65faf9.jpg", "height": 417, "width": 634, "detection": {"instances": [{"bbox": [6, 49, 250, 320], "label": 0, "category": "raccoon"}, {"bbox": [274, 27, 563, 410], "label": 0, "category": "raccoon"}]}}
+{"filename": "raccoon-161_jpg.rf.ccf96ca07b9c44a07aa39b6a20c64b09.jpg", "height": 347, "width": 500, "detection": {"instances": [{"bbox": [209, 73, 385, 186], "label": 0, "category": "raccoon"}]}}
+{"filename": "raccoon-122_jpg.rf.d1c7e0dcf526d1688c7eaeeb8bf0c8e6.jpg", "height": 283, "width": 178, "detection": {"instances": [{"bbox": [7, 7, 174, 198], "label": 0, "category": "raccoon"}]}}
+{"filename": "raccoon-127_jpg.rf.f7ddca1996835c8092cdc89c30dff0c0.jpg", "height": 199, "width": 253, "detection": {"instances": [{"bbox": [125, 59, 212, 165], "label": 0, "category": "raccoon"}]}}
+{"filename": "raccoon-165_jpg.rf.0c2fd0a30551e26e138b4a293d4f440b.jpg", "height": 253, "width": 199, "detection": {"instances": [{"bbox": [27, 11, 194, 228], "label": 0, "category": "raccoon"}]}}
+{"filename": "raccoon-152_jpg.rf.20c2833510dcba78e6507ca3ba355eb8.jpg", "height": 183, "width": 275, "detection": {"instances": [{"bbox": [41, 60, 223, 155], "label": 0, "category": "raccoon"}]}}
+{"filename": "raccoon-174_jpg.rf.24a71765fff41ea35b6d75fef9e3ae28.jpg", "height": 639, "width": 960, "detection": {"instances": [{"bbox": [125, 43, 588, 527], "label": 0, "category": "raccoon"}]}}
+{"filename": "raccoon-23_jpg.rf.2e0e3d9e18812058fc47dbce152c08d0.jpg", "height": 194, "width": 259, "detection": {"instances": [{"bbox": [108, 1, 259, 193], "label": 0, "category": "raccoon"}]}}

@@ -1,0 +1,3 @@
+{"filename": "PXL_20201105_173148569_jpg.rf.4d541b1870439829ccbfa2787fe4a4f3.jpg", "height": 900, "width": 1200, "detection": {"instances": [{"bbox": [377, 258, 745, 655], "label": 0, "category": "package"}]}}
+{"filename": "PXL_20201107_214721193_jpg.rf.dba683bd862a03657dc6e1e00e945ff7.jpg", "height": 900, "width": 1200, "detection": {"instances": [{"bbox": [267, 139, 1099, 870], "label": 0, "category": "package"}]}}
+{"filename": "PXL_20201107_021350055_jpg.rf.9852d67ee4b7d313b0e22229c88e27f5.jpg", "height": 900, "width": 1200, "detection": {"instances": [{"bbox": [377, 217, 873, 500], "label": 0, "category": "package"}, {"bbox": [332, 333, 972, 818], "label": 0, "category": "package"}]}}

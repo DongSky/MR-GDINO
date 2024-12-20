@@ -1,0 +1,5 @@
+{"filename": "img-231_jpg.rf.1834b79b17ce894fbdc7c5334407d877.jpg", "height": 720, "width": 720, "detection": {"instances": [{"bbox": [244, 218, 482, 389], "label": 0, "category": "pothole"}, {"bbox": [335, 66, 421, 96], "label": 0, "category": "pothole"}]}}
+{"filename": "img-569_jpg.rf.2b1c4b01aeb0f3c6b2f853c7b121fa62.jpg", "height": 300, "width": 400, "detection": {"instances": [{"bbox": [157, 123, 241, 145], "label": 0, "category": "pothole"}, {"bbox": [150, 155, 277, 189], "label": 0, "category": "pothole"}]}}
+{"filename": "img-608_jpg.rf.6a019b85298c5fdcc6d1cc1377eb42a0.jpg", "height": 357, "width": 300, "detection": {"instances": [{"bbox": [15, 175, 256, 356], "label": 0, "category": "pothole"}]}}
+{"filename": "img-352_jpg.rf.7071e9840456e2ef41927696dddb3a5a.jpg", "height": 300, "width": 400, "detection": {"instances": [{"bbox": [80, 132, 354, 298], "label": 0, "category": "pothole"}, {"bbox": [235, 101, 279, 130], "label": 0, "category": "pothole"}]}}
+{"filename": "img-114_jpg.rf.b58901654a45a559a41ffaa25f1bf741.jpg", "height": 720, "width": 720, "detection": {"instances": [{"bbox": [270, 259, 402, 372], "label": 0, "category": "pothole"}]}}
