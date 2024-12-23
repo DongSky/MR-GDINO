@@ -5,7 +5,7 @@
   <img src="assets/teaser.png" alt="teaser of MR-GDINO" style="border-radius: 5%;"><br />
   <!-- <span style="color:red">📢 <strong><i>We are currently organizing the code for SALAD-Bench. If you are interested in our work, please star ⭐ our project.</i></strong></span> -->
 
-  <h4> <a href="https://dongsky.github.io/owcod/data/preprint.pdf" target="_black">📖 Preprint</a> | <a href="" target="_black">📖 Arxiv Paper</a> |<a href="https://dongsky.github.io/owcod/" target="_blank">🚧 Project_page</a>|<a href="https://drive.google.com/drive/folders/1nwIWzqPglVpqmVa-AhJMfqnF3qTPCMQi?usp=share_link" target="_blank">📊 Checkpoints</a>|
+  <h4> <a href="https://dongsky.github.io/owcod/data/preprint.pdf" target="_black">📖 Preprint</a> | <a href="https://arxiv.org/abs/2412.15979" target="_black">📖 Arxiv Paper</a> |<a href="https://dongsky.github.io/owcod/" target="_blank">🚧 Project_page</a>|<a href="https://drive.google.com/drive/folders/1nwIWzqPglVpqmVa-AhJMfqnF3qTPCMQi?usp=share_link" target="_blank">📊 Checkpoints</a>|
   </h4>
 </div>
 
